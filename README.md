@@ -1,1 +1,1 @@
-the game is in the archive
+the game is in the archive/simple side project
