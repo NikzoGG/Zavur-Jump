@@ -1,1 +1,1 @@
-simple side project
+simple kinda bad coded side project
